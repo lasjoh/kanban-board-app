@@ -4,7 +4,7 @@
 
 Kanban style task management board app
 
-[https://shellyln.github.io/knbn/#/](https://shellyln.github.io/knbn/#/)
+[Kanban](https://github.com/lasjoh/knbn/#/)
 
 ![welcome-board](https://raw.githubusercontent.com/shellyln/kanban-board-app/master/docs/images/welcome-board.png)
 
